@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Sheikha 👋
 
 🎓 Software Engineering Graduate  
