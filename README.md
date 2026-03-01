@@ -1,16 +1,22 @@
 ## Hi there 👋
+# Hi, I'm Sheikha 👋
 
-<!--
-**sheekgirle-crypto/sheekgirle-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Graduate  
+👩‍🏫 IT & AI Instructor  
+🌍 Based in Oman  
+💡 Interested in Intelligent Web Systems & Data Analytics  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Programming: C, C++, C#, Java, Python, PHP
+- Web: HTML, CSS, JavaScript
+- Tools: Power BI, Visual Studio, Android Studio
+- OS: Linux, Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Intelligent Web Systems
+- AI Integration in Education
+- IT Support & Data Analysis
+
+## 📫 Connect with me
+LinkedIn: www.linkedin.com/in/sheikha-al-jahwari-76434271
+Email: sheekgirle@hotmail.com
